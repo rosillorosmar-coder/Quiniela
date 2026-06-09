@@ -21,6 +21,7 @@ Datos locales:
 - Participante de prueba: `LOAA900101MDFPRN01`
 - Admin: `admin2026`
 - Base local: `data/db.json`
+- Interfaz local estatica: `local-public/`
 
 ## Reglas implementadas
 

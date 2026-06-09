@@ -12,7 +12,7 @@ const TIME_ZONE = "America/Mexico_City";
 const DEADLINE_UTC = new Date("2026-06-11T19:00:00.000Z");
 const DEADLINE_LABEL = "11 de junio de 2026, 13:00";
 const DB_PATH = path.join(__dirname, "data", "db.json");
-const PUBLIC_DIR = path.join(__dirname, "public");
+const PUBLIC_DIR = path.join(__dirname, "local-public");
 const PARSE_USERS_SCRIPT = path.join(__dirname, "scripts", "parse_users_from_xlsx.py");
 const BUNDLED_PYTHON =
   "/Users/marcoantoniorosillomontalvo/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3";
