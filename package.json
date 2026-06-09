@@ -1,0 +1,28 @@
+{
+  "name": "quiniela-mundial-2026",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "node server.js",
+    "next:dev": "next dev",
+    "next:start": "next start",
+    "check": "next build"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "lucide-react": "^0.468.0",
+    "next": "16.2.7",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^9.15.0",
+    "eslint-config-next": "^15.0.3",
+    "typescript": "^5.6.3"
+  }
+}

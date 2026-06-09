@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Quiniela Mundial 2026</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <button class="brand" type="button" data-view="login" aria-label="Ir al inicio">
+          <span class="brand-mark">Q</span>
+          <span>
+            <span class="brand-title">Quiniela Mundial 2026</span>
+            <span class="brand-subtitle">App web local</span>
+          </span>
+        </button>
+
+        <nav class="nav-actions" aria-label="Navegacion principal">
+          <button class="button button-secondary" type="button" data-view="predictions">Predicciones</button>
+          <button class="button button-secondary" type="button" data-view="ranking">Ranking</button>
+          <button class="button button-secondary" type="button" data-view="admin">Admin</button>
+        </nav>
+      </header>
+
+      <section class="view page center-page" id="view-login">
+        <div class="login-grid">
+          <div class="intro-panel">
+            <h1>Quiniela Mundial 2026</h1>
+            <p>Captura tus marcadores de fase de grupos, registra resultados reales y consulta el ranking desde esta app local.</p>
+          </div>
+
+          <form class="auth-card" id="login-form">
+            <h2>Identificacion</h2>
+            <p class="muted">Ingresa la CURP de un participante activo.</p>
+
+            <label class="field" for="curp">
+              <span>CURP</span>
+              <input class="input" id="curp" maxlength="18" minlength="10" required placeholder="Ingresa tu CURP" />
+            </label>
+
+            <p class="error hidden" id="login-error"></p>
+
+            <button class="button button-primary" type="submit">Entrar</button>
+            <p class="hint">Prueba local: REOO671230HCSYRS06</p>
+          </form>
+        </div>
+      </section>
+
+      <section class="view page panel hidden" id="view-predictions">
+        <div class="panel-header">
+          <div>
+            <h1 id="welcome-title">Predicciones</h1>
+            <p class="muted" id="capture-summary"></p>
+          </div>
+          <button class="button button-secondary" id="logout-button" type="button">Salir</button>
+        </div>
+
+        <p class="notice" id="deadline-notice"></p>
+        <p class="error hidden" id="predictions-error"></p>
+        <p class="success hidden" id="predictions-success"></p>
+
+        <form id="predictions-form">
+          <div class="match-list" id="matches-list"></div>
+          <button class="button button-primary save-button" id="save-predictions" type="submit">Guardar predicciones</button>
+        </form>
+      </section>
+
+      <section class="view page panel hidden" id="view-ranking">
+        <div class="panel-header">
+          <div>
+            <h1>Ranking publico</h1>
+            <p class="muted">Ordenado por puntos y desempate por marcadores exactos.</p>
+            <p class="counter-pill" id="ranking-count">0 participantes</p>
+          </div>
+          <button class="button button-secondary" id="refresh-ranking" type="button">Actualizar</button>
+        </div>
+
+        <p class="error hidden" id="ranking-error"></p>
+        <div class="ranking-table" id="ranking-table"></div>
+      </section>
+
+      <section class="view page hidden" id="view-admin">
+        <form class="auth-card" id="admin-login">
+          <h1>Panel administrador</h1>
+          <p class="muted">Captura resultados reales y recalcula puntos.</p>
+
+          <label class="field" for="admin-username">
+            <span>Usuario</span>
+            <input class="input" id="admin-username" required autocomplete="username" />
+          </label>
+
+          <label class="field" for="admin-password">
+            <span>Clave</span>
+            <input class="input" id="admin-password" required type="password" autocomplete="current-password" />
+          </label>
+
+          <p class="error hidden" id="admin-login-error"></p>
+          <button class="button button-primary" type="submit">Entrar</button>
+          <p class="hint">Admin local: admin / admin2026</p>
+        </form>
+
+        <div class="panel hidden" id="admin-panel">
+          <div class="panel-header">
+            <div>
+              <h1>Panel administrador</h1>
+              <p class="muted">Alta de participantes y captura de resultados reales.</p>
+            </div>
+          </div>
+
+          <section class="admin-section" aria-labelledby="user-create-title">
+            <div>
+              <h2 id="user-create-title">Alta de usuario</h2>
+              <p class="muted">Registra personal que no aparezca en el catalogo inicial.</p>
+            </div>
+
+            <form class="user-create-form" id="user-create-form">
+              <label class="field" for="new-user-name">
+                <span>Nombre completo</span>
+                <input class="input" id="new-user-name" required placeholder="Nombre del participante" />
+              </label>
+
+              <label class="field" for="new-user-curp">
+                <span>CURP</span>
+                <input class="input" id="new-user-curp" maxlength="18" minlength="18" required placeholder="CURP a 18 caracteres" />
+              </label>
+
+              <label class="field" for="new-user-area">
+                <span>Area</span>
+                <input class="input" id="new-user-area" required placeholder="Area o departamento" />
+              </label>
+
+              <label class="check-field" for="new-user-active">
+                <input id="new-user-active" type="checkbox" checked />
+                <span>Usuario activo</span>
+              </label>
+
+              <button class="button button-primary" type="submit">Crear usuario</button>
+            </form>
+
+            <p class="error hidden" id="user-create-error"></p>
+            <p class="success hidden" id="user-create-success"></p>
+
+            <div class="import-box">
+              <div>
+                <h3>Importar desde Excel</h3>
+                <p class="muted">Carga usuarios nuevos desde un archivo .xlsx con columnas de nombre, CURP, area/departamento y estatus.</p>
+              </div>
+
+              <form class="user-import-form" id="user-import-form">
+                <label class="file-field" for="users-excel">
+                  <span>Archivo Excel</span>
+                  <input id="users-excel" type="file" accept=".xlsx" required />
+                </label>
+                <button class="button button-primary" type="submit">Importar Excel</button>
+              </form>
+
+              <p class="error hidden" id="user-import-error"></p>
+              <p class="success hidden" id="user-import-success"></p>
+            </div>
+          </section>
+
+          <section class="admin-section" aria-labelledby="results-title">
+            <div>
+              <h2 id="results-title">Resultados reales</h2>
+              <p class="muted">Al guardar un resultado se actualizan los puntos de ese partido.</p>
+            </div>
+
+          <p class="error hidden" id="admin-error"></p>
+          <p class="success hidden" id="admin-success"></p>
+          <div class="admin-results" id="admin-matches"></div>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>

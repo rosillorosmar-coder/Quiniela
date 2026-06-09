@@ -1,0 +1,2707 @@
+{
+  "usuarios": [
+    {
+      "id": "u-AOOV850117HMCCRC04",
+      "nombre": "ACOSTA ORTIZ VICTOR MANUEL",
+      "curp": "AOOV850117HMCCRC04",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-AUJZ030617HDFGRDA3",
+      "nombre": "AGUILAR JUAREZ ZAID YAEL",
+      "curp": "AUJZ030617HDFGRDA3",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-AUSJ741230HMCGRS09",
+      "nombre": "AGUILAR SERRANO JESUS ENRIQUE",
+      "curp": "AUSJ741230HMCGRS09",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-AURD860106HDFHSG09",
+      "nombre": "AHUMADA ROSALES DIEGO IVAN",
+      "curp": "AURD860106HDFHSG09",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-AEGK940423MMCLRR04",
+      "nombre": "ALEJO GARCIA KARINA",
+      "curp": "AEGK940423MMCLRR04",
+      "area": "ADMINISTRACION",
+      "activo": true
+    },
+    {
+      "id": "u-AAMK970808MMCLNR08",
+      "nombre": "ALVARADO MANJARREZ KARINA",
+      "curp": "AAMK970808MMCLNR08",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-AAOR740518HDFLCB00",
+      "nombre": "ALVARADO OCAMPO RUBEN",
+      "curp": "AAOR740518HDFLCB00",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-AAAH890712HDFLRC01",
+      "nombre": "ALVAREZ ARANA HECTOR HUGO",
+      "curp": "AAAH890712HDFLRC01",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-AACE880612HMCLLS00",
+      "nombre": "ALVAREZ CALVO ESPIRIDION EVANI",
+      "curp": "AACE880612HMCLLS00",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-AEGF980630MDFNRR07",
+      "nombre": "ANTELE GARCIA FERNANDA",
+      "curp": "AEGF980630MDFNRR07",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-AAFA850922MDFRND08",
+      "nombre": "ARANDA FUENTES ADRIANA",
+      "curp": "AAFA850922MDFRND08",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-AEMA021110HMCRRLA4",
+      "nombre": "ARELLANO MARTINEZ ALEXIS",
+      "curp": "AEMA021110HMCRRLA4",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-AUHH990607HPLRRM02",
+      "nombre": "ARGUELLO HERNANDEZ HUMBERTO",
+      "curp": "AUHH990607HPLRRM02",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-AUAA680123HDFRCL09",
+      "nombre": "ARGUETA ACEVEDO ALFREDO",
+      "curp": "AUAA680123HDFRCL09",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-AIAP980623MDFRVL03",
+      "nombre": "ARIAS AVILES PAOLA",
+      "curp": "AIAP980623MDFRVL03",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-AAMA920610HHGTNR03",
+      "nombre": "ATLALPAN MANRIQUE JOSE ARMANDO",
+      "curp": "AAMA920610HHGTNR03",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-BARJ020816HJCNNRA9",
+      "nombre": "BANQUELLS RINCON JORGE OMAR",
+      "curp": "BARJ020816HJCNNRA9",
+      "area": "ADMINISTRACIÓN",
+      "activo": true
+    },
+    {
+      "id": "u-BALJ910621HMNRMS04",
+      "nombre": "BARAJAS LEMUS JESUS JHOVANI",
+      "curp": "BALJ910621HMNRMS04",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-BAMG880627HMCRGB06",
+      "nombre": "BARRIOS MIGUEL GABRIEL",
+      "curp": "BAMG880627HMCRGB06",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-BAAJ990302HCSTRR03",
+      "nombre": "BAUTISTA ARCOS JORGE ALBERTO",
+      "curp": "BAAJ990302HCSTRR03",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-BAAD990731MMCZRN05",
+      "nombre": "BAZ ARREOLA DIANA ITZEL",
+      "curp": "BAAD990731MMCZRN05",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-BEGJ910411HMCNRV06",
+      "nombre": "BENITEZ GUERRERO JOVANI",
+      "curp": "BEGJ910411HMCNRV06",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-BECM860609MDFRTR04",
+      "nombre": "BERNAL CUAUTLI MARIBEL",
+      "curp": "BECM860609MDFRTR04",
+      "area": "CAPTURA E INVENTARIOS",
+      "activo": true
+    },
+    {
+      "id": "u-BOMK940902MMCJXR03",
+      "nombre": "BOJORGES MUÑOZ KARLA",
+      "curp": "BOMK940902MMCJXR03",
+      "area": "DIRECCION",
+      "activo": true
+    },
+    {
+      "id": "u-BORL050803HDFNDSA3",
+      "nombre": "BONIFACIO RODRIGUEZ LUIS ANGEL",
+      "curp": "BORL050803HDFNDSA3",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-BOPJ880314HDFRRL09",
+      "nombre": "BORJA PEREZ JULIO CESAR",
+      "curp": "BOPJ880314HDFRRL09",
+      "area": "MANTENIMIENTO",
+      "activo": true
+    },
+    {
+      "id": "u-CAFR770502HDFLLB03",
+      "nombre": "CALIXTO FLORES RUBEN",
+      "curp": "CAFR770502HDFLLB03",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-CALE950811HMCMLR00",
+      "nombre": "CAMACHO LEAL ERIK",
+      "curp": "CALE950811HMCMLR00",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-CASA000306MMCMNNA0",
+      "nombre": "CAMACHO SANCHEZ ANAMILLET",
+      "curp": "CASA000306MMCMNNA0",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-CAMD940209MMCNNN08",
+      "nombre": "CANDELAS MENESES DIANA MAGALI",
+      "curp": "CAMD940209MMCNNN08",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-CAMK970927MDFRRR00",
+      "nombre": "CARDENAS MARTINEZ KARLA ADRIANA",
+      "curp": "CAMK970927MDFRRR00",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-CARD890401HDFRNN01",
+      "nombre": "CARIÑO RANGEL DANIEL",
+      "curp": "CARD890401HDFRNN01",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-CAML910214MDFRRL08",
+      "nombre": "CARMONA MARRON LILIANA CAROLINA",
+      "curp": "CAML910214MDFRRL08",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-CACW981114MMCSSN06",
+      "nombre": "CASTILLO CASTAÑEDA WENDY JANETH",
+      "curp": "CACW981114MMCSSN06",
+      "area": "FACTURACION",
+      "activo": true
+    },
+    {
+      "id": "u-CALH930323HDFSPC06",
+      "nombre": "CASTRO LOPEZ HECTOR ALEXIS",
+      "curp": "CALH930323HDFSPC06",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-CAPA940128MDFSLN02",
+      "nombre": "CASTRO POLICARPO ANA LAURA",
+      "curp": "CAPA940128MDFSLN02",
+      "area": "RECURSOS HUMANOS",
+      "activo": true
+    },
+    {
+      "id": "u-CARJ860315HMCSJR06",
+      "nombre": "CASTRO ROJAS JORGE ARMANDO",
+      "curp": "CARJ860315HMCSJR06",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-CETB990507MMCPRR02",
+      "nombre": "CEPEDA TORRES BRISA YOSELIN",
+      "curp": "CETB990507MMCPRR02",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-CECY961031MDFRHL06",
+      "nombre": "CERVANTES CHAPARRO YLENIA MINACU",
+      "curp": "CECY961031MDFRHL06",
+      "area": "ADMINISTRACIÓN",
+      "activo": true
+    },
+    {
+      "id": "u-CIRE800628HDFSMN01",
+      "nombre": "CISNEROS ROMERO ENRIQUE",
+      "curp": "CIRE800628HDFSMN01",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-CAHG721213HDFLRL00",
+      "nombre": "CLAVIJO HERNANDEZ GILBERTO",
+      "curp": "CAHG721213HDFLRL00",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-COJX920701HPLLNS06",
+      "nombre": "COLIN JUAN ISAAC JAVIER",
+      "curp": "COJX920701HPLLNS06",
+      "area": "COMPRAS",
+      "activo": true
+    },
+    {
+      "id": "u-COCR860807MDFRNB12",
+      "nombre": "CORIA CONTRERAS REBECA",
+      "curp": "COCR860807MDFRNB12",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-COAV910325MDFRRR09",
+      "nombre": "CORONADO ARANDA VIRIDIANA",
+      "curp": "COAV910325MDFRRR09",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-COCB050425HMCRRRA0",
+      "nombre": "CORRALES CORTES BRAYAN JOVANI",
+      "curp": "COCB050425HMCRRRA0",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-CXGE720903MJCRMV05",
+      "nombre": "CORTES GOMEZ EVANGELINA",
+      "curp": "CXGE720903MJCRMV05",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-COPJ980407HDFRRS05",
+      "nombre": "CORTES PEREZ JOSUE MISAEL",
+      "curp": "COPJ980407HDFRRS05",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-COPV880719HMCRXC05",
+      "nombre": "CORTES PIÑA VICTOR URY",
+      "curp": "COPV880719HMCRXC05",
+      "area": "MANTENIMIENTO",
+      "activo": true
+    },
+    {
+      "id": "u-COAA920823MMCRLD07",
+      "nombre": "CORTEZ ALTAMIRANO AIDEE GUADALUPE",
+      "curp": "COAA920823MMCRLD07",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-COSJ950806MMCYRS01",
+      "nombre": "COYOTL SUAREZ JESSICA PAOLA",
+      "curp": "COSJ950806MMCYRS01",
+      "area": "CREDITO Y COBRANZA",
+      "activo": true
+    },
+    {
+      "id": "u-CUCE750926MDFRRR06",
+      "nombre": "CRUZ CRUZ ERIKA JAZMIN",
+      "curp": "CUCE750926MDFRRR06",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-CUFJ931029HDFRLN04",
+      "nombre": "CRUZ FLORES JUAN",
+      "curp": "CUFJ931029HDFRLN04",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-CUGL960613MPLRRN04",
+      "nombre": "CRUZ GARCIA LEONOR ANDREA",
+      "curp": "CUGL960613MPLRRN04",
+      "area": "CUENTAS POR PAGAR",
+      "activo": true
+    },
+    {
+      "id": "u-CUMV800410HOCRNC08",
+      "nombre": "CRUZ MENDES VICTOR",
+      "curp": "CUMV800410HOCRNC08",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-CUMO970524HMCRRM02",
+      "nombre": "CRUZ MORAZAN OMAR LEVI",
+      "curp": "CUMO970524HMCRRM02",
+      "area": "ADMINISTRACIÓN",
+      "activo": true
+    },
+    {
+      "id": "u-CUPE020603MMCRRVA2",
+      "nombre": "CRUZ PEREZ EVELIN AIDETH",
+      "curp": "CUPE020603MMCRRVA2",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-AATM860710HDFNNR05",
+      "nombre": "DE ANDA TINAJERO MARCOS ANTONIO",
+      "curp": "AATM860710HDFNNR05",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-JEGR940404HMCSZM09",
+      "nombre": "DE JESUS GUZMAN RAMON",
+      "curp": "JEGR940404HMCSZM09",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-LEAJ881030HMCNLN01",
+      "nombre": "DE LEON ALONZO JOSE JUAN",
+      "curp": "LEAJ881030HMCNLN01",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-LEEC010422MZSNSTA2",
+      "nombre": "DE LEON ESTRADA CITLALLI",
+      "curp": "LEEC010422MZSNSTA2",
+      "area": "RECURSOS HUMANOS",
+      "activo": true
+    },
+    {
+      "id": "u-DEES990608MMCLLT07",
+      "nombre": "DELGADO ELIAS STEPHANY",
+      "curp": "DEES990608MMCLLT07",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-DIJF810904HMCZMR07",
+      "nombre": "DIAZ JIMENEZ FERNANDO",
+      "curp": "DIJF810904HMCZMR07",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-DONJ730506HDFMTN06",
+      "nombre": "DOMINGUEZ NIETO JUAN CARLOS",
+      "curp": "DONJ730506HDFMTN06",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-DOOM020203MDFMLLA2",
+      "nombre": "DOMINGUEZ OLIVA MELANIE ESTEFANIA",
+      "curp": "DOOM020203MDFMLLA2",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-DUMN020204MMCXJTA0",
+      "nombre": "DUEÑAS MEJIA NATALY YAMILET",
+      "curp": "DUMN020204MMCXJTA0",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-EIAA960310HDFSLN00",
+      "nombre": "ESPINDOLA ALBA JOSE ANTONIO",
+      "curp": "EIAA960310HDFSLN00",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-EILD000410MMCSDNA9",
+      "nombre": "ESPINOZA LEDEZMA DENISSE JOSEFINA",
+      "curp": "EILD000410MMCSDNA9",
+      "area": "ADMINISTRACION",
+      "activo": true
+    },
+    {
+      "id": "u-EIHF021016HDFSRRA5",
+      "nombre": "ESPITIA HERNANDEZ FERNANDO",
+      "curp": "EIHF021016HDFSRRA5",
+      "area": "ADMINISTRACION",
+      "activo": true
+    },
+    {
+      "id": "u-FERJ780723HTLRYN02",
+      "nombre": "FERNANDEZ RAYA JUAN",
+      "curp": "FERJ780723HTLRYN02",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-FIGM960818HVZGTR04",
+      "nombre": "FIGUEIRAS GUTIERREZ MARCOS",
+      "curp": "FIGM960818HVZGTR04",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-FOAM820206HDFLLR01",
+      "nombre": "FLORES ALVAREZ MAURICIO",
+      "curp": "FOAM820206HDFLLR01",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-FOVO810109HDFLLM09",
+      "nombre": "FLORES VELAZQUEZ OMAR",
+      "curp": "FOVO810109HDFLLM09",
+      "area": "SISTEMAS",
+      "activo": true
+    },
+    {
+      "id": "u-FUGJ891205HDFNVR00",
+      "nombre": "FUENTES GUEVARA JORGE IVAN",
+      "curp": "FUGJ891205HDFNVR00",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-GANA910224MMCLCN03",
+      "nombre": "GALICIA NICOLAS ANGELICA",
+      "curp": "GANA910224MMCLCN03",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-GAAS860101HMCRLR07",
+      "nombre": "GARCIA ALVA SERGIO FRANCISCO",
+      "curp": "GAAS860101HMCRLR07",
+      "area": "ADMINISTRATIVO",
+      "activo": true
+    },
+    {
+      "id": "u-GACI810201HMCRBG00",
+      "nombre": "GARCIA CABRERA IGNACIO",
+      "curp": "GACI810201HMCRBG00",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-GAEM890206MDFRSR06",
+      "nombre": "GARCIA ESPINOZA MARTHA PATRICIA",
+      "curp": "GAEM890206MDFRSR06",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-GAGK950731HMCRRV09",
+      "nombre": "GARCIA GARCIA KEVIN",
+      "curp": "GAGK950731HMCRRV09",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-GAGO771003HTLRRC03",
+      "nombre": "GARCIA GARCIA OCTAVIO",
+      "curp": "GAGO771003HTLRRC03",
+      "area": "MANTENIMIENTO",
+      "activo": true
+    },
+    {
+      "id": "u-GASG981104HMCRRR04",
+      "nombre": "GARCIA GARCIA SERGIO",
+      "curp": "GASG981104HMCRRR04",
+      "area": "MARKETING",
+      "activo": true
+    },
+    {
+      "id": "u-GAGB980331MMCRZT03",
+      "nombre": "GARCIA GUZMAN BEATRIZ",
+      "curp": "GAGB980331MMCRZT03",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-GAHM760929MMCRRC04",
+      "nombre": "GARCIA HERMENEGILDO MICAELA",
+      "curp": "GAHM760929MMCRRC04",
+      "area": "INTENDENCIA",
+      "activo": true
+    },
+    {
+      "id": "u-GAHM931018HHGRDG00",
+      "nombre": "GARCIA HIDALGO MIGUEL ANGEL",
+      "curp": "GAHM931018HHGRDG00",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-GAMI980622HOCRRS04",
+      "nombre": "GARCIA MARIN ISMAEL",
+      "curp": "GAMI980622HOCRRS04",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-GAPL630126HDFRCS01",
+      "nombre": "GARCIA PACHECO JOSE LUIS",
+      "curp": "GAPL630126HDFRCS01",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-GAZK010706MMCRMRA8",
+      "nombre": "GARCIA ZAMORA KARLA DANAE",
+      "curp": "GAZK010706MMCRMRA8",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-GITF000926HDFLVRA4",
+      "nombre": "GILES TAVERA FERNANDO",
+      "curp": "GITF000926HDFLVRA4",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-GORF980130MDFMMR04",
+      "nombre": "GOMEZ  RAMOS FRIDA PAMELA",
+      "curp": "GORF980130MDFMMR04",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-GOAD960206MMCNLN02",
+      "nombre": "GONZALEZ ALVAREZ DIANA",
+      "curp": "GOAD960206MMCNLN02",
+      "area": "CAPTURA E INVENTARIOS",
+      "activo": true
+    },
+    {
+      "id": "u-GODA050301HDFNMNA3",
+      "nombre": "GONZALEZ DOMINGUEZ ANGEL",
+      "curp": "GODA050301HDFNMNA3",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-GODM780522MHGNMR06",
+      "nombre": "GONZALEZ DOMINGUEZ MARIELA",
+      "curp": "GODM780522MHGNMR06",
+      "area": "CAPTURA E INVENTARIOS",
+      "activo": true
+    },
+    {
+      "id": "u-GOEC900905MDFNSN06",
+      "nombre": "GONZALEZ ESTRADA CINTHIA JUDITH",
+      "curp": "GOEC900905MDFNSN06",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-GOGS900310MDFNLN02",
+      "nombre": "GONZALEZ GALINDO SANDRA JIZEL",
+      "curp": "GOGS900310MDFNLN02",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-GOMV690121HDFNDC04",
+      "nombre": "GONZALEZ MEDINA VICTOR MANUEL",
+      "curp": "GOMV690121HDFNDC04",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-GOGM990507MMCRNN07",
+      "nombre": "GORDO GONZALEZ MONICA SOFIA",
+      "curp": "GOGM990507MMCRNN07",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-GUAO010319HMCDLSA5",
+      "nombre": "GUADALUPE ALCANTARA OSCAR AXEL",
+      "curp": "GUAO010319HMCDLSA5",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-GUHO941014HMCDRS06",
+      "nombre": "GUADARRAMA HERNANDEZ OSCAR ALBERTO",
+      "curp": "GUHO941014HMCDRS06",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-GUHA880517MMCRRN06",
+      "nombre": "GUERRERO DE LA HUERTA ANA MONSERRAT",
+      "curp": "GUHA880517MMCRRN06",
+      "area": "ADMINISTRACION",
+      "activo": true
+    },
+    {
+      "id": "u-GUDE020419MMCZLS03",
+      "nombre": "GUZMAN DELGADO ESTEFANI VALERIA",
+      "curp": "GUDE020419MMCZLS03",
+      "area": "ADMINISTRACIÓN",
+      "activo": true
+    },
+    {
+      "id": "u-HEVL000507HMCRLSA8",
+      "nombre": "HERMENEGILDO VALDES LUIS FELIPE",
+      "curp": "HEVL000507HMCRLSA8",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-HEAJ720920MMCRNL01",
+      "nombre": "HERNANDEZ ANIDES JULIA",
+      "curp": "HEAJ720920MMCRNL01",
+      "area": "ADMINISTRATIVO",
+      "activo": true
+    },
+    {
+      "id": "u-HEAA930608MDFRPM06",
+      "nombre": "HERNANDEZ APAC AMERICA YAREN",
+      "curp": "HEAA930608MDFRPM06",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-HEDS970917MHGRMC09",
+      "nombre": "HERNANDEZ DOMINGUEZ SCOLLE LEILANI",
+      "curp": "HEDS970917MHGRMC09",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-HEEJ031108HDFRSNA1",
+      "nombre": "HERNANDEZ ESCOBAR JUAN JOSE",
+      "curp": "HEEJ031108HDFRSNA1",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-HEGM930314MMCRLR06",
+      "nombre": "HERNANDEZ GALVAN MIREYA",
+      "curp": "HEGM930314MMCRLR06",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-HEGE930603HDFRNR09",
+      "nombre": "HERNANDEZ GONZALEZ ERIK",
+      "curp": "HEGE930603HDFRNR09",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-HEGM950517HMCRTR05",
+      "nombre": "HERNANDEZ GUTIERREZ MARCO ANTONIO",
+      "curp": "HEGM950517HMCRTR05",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-HEGM811229MJCRZR01",
+      "nombre": "HERNANDEZ GUZMAN MARTHA BERENICE",
+      "curp": "HEGM811229MJCRZR01",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-HEJD891013HDFRRN01",
+      "nombre": "HERNANDEZ JARQUIN DANIEL",
+      "curp": "HEJD891013HDFRRN01",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-HEMJ030601HMCRTHA2",
+      "nombre": "HERNANDEZ MATIAS JOHAN OMAR",
+      "curp": "HEMJ030601HMCRTHA2",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-HEMM960828HDFRDG03",
+      "nombre": "HERNANDEZ MEDERO MIGUEL JOVANI",
+      "curp": "HEMM960828HDFRDG03",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-HEMA050722HMCRNLA7",
+      "nombre": "HERNANDEZ MONTES DE OCA ALEJANDRO",
+      "curp": "HEMA050722HMCRNLA7",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-HERJ900406HDFRDB07",
+      "nombre": "HERNANDEZ RODRIGUEZ JOB JONATAN",
+      "curp": "HERJ900406HDFRDB07",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-HESV970820MDFRLN07",
+      "nombre": "HERNANDEZ SALGADO VANESSA",
+      "curp": "HESV970820MDFRLN07",
+      "area": "CONTABILIDAD",
+      "activo": true
+    },
+    {
+      "id": "u-HESB960915MDFRLR04",
+      "nombre": "HERNANDEZ SALVADOR BRENDA VIANEY",
+      "curp": "HESB960915MDFRLR04",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-HESV840626MDFRNR05",
+      "nombre": "HERNANDEZ SANCHEZ VIRIDIANA",
+      "curp": "HESV840626MDFRNR05",
+      "area": "ADMINISTRACION",
+      "activo": true
+    },
+    {
+      "id": "u-HESU950121HMCRLL07",
+      "nombre": "HERNANDEZ SOLIS ULISES DE JESUS",
+      "curp": "HESU950121HMCRLL07",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-HECA950826HDFRSL05",
+      "nombre": "HERRERA CASTILLO ALEXIS ABRAHAM",
+      "curp": "HECA950826HDFRSL05",
+      "area": "ADMINISTRACION",
+      "activo": true
+    },
+    {
+      "id": "u-HEMA960413MDFRRB07",
+      "nombre": "HERRERA MARTINEZ ABIGAIL",
+      "curp": "HEMA960413MDFRRB07",
+      "area": "CREDITO Y COBRANZA",
+      "activo": true
+    },
+    {
+      "id": "u-HESC950610HGRRNS00",
+      "nombre": "HERRERA SANTOS CESAR",
+      "curp": "HESC950610HGRRNS00",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-HUTA811228MDFRNL04",
+      "nombre": "HUERTA TENORIO ALEJANDRA GUADALUPE",
+      "curp": "HUTA811228MDFRNL04",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-HUPA931201MDFTRN05",
+      "nombre": "HUITRON PARRA ANGELA YOANNA",
+      "curp": "HUPA931201MDFTRN05",
+      "area": "CONTABILIDAD",
+      "activo": true
+    },
+    {
+      "id": "u-IIZI801007HDFXPS09",
+      "nombre": "IÑIGUEZ ZEPEDA ISMAEL",
+      "curp": "IIZI801007HDFXPS09",
+      "area": "MANTENIMIENTO",
+      "activo": true
+    },
+    {
+      "id": "u-JISG680110HMCMNN06",
+      "nombre": "JIMENEZ SANCHEZ GONZALO",
+      "curp": "JISG680110HMCMNN06",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-JUTJ920222MOCRRV03",
+      "nombre": "JUAREZ TERRON JOVITA",
+      "curp": "JUTJ920222MOCRRV03",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-LISI800303HMCBSS00",
+      "nombre": "LIBERA SOSA ISRAEL",
+      "curp": "LISI800303HMCBSS00",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-LODG900324HMCPLB05",
+      "nombre": "LOPEZ DELGADILLO GABRIEL",
+      "curp": "LODG900324HMCPLB05",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-LOEF921212HMCPSR02",
+      "nombre": "LOPEZ ESTRADA FRANCISCO",
+      "curp": "LOEF921212HMCPSR02",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-LOGC830430MMCPRT02",
+      "nombre": "LOPEZ GARCIA CATALINA GLORIA",
+      "curp": "LOGC830430MMCPRT02",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-LOLO950318HPLPPS05",
+      "nombre": "LOPEZ LOPEZ OSCAR",
+      "curp": "LOLO950318HPLPPS05",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-LORJ020212HDFPJNA6",
+      "nombre": "LOPEZ ROJAS JUAN ANTONIO",
+      "curp": "LORJ020212HDFPJNA6",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-LOSR740515HMCPNM03",
+      "nombre": "LOPEZ SAN JUAN RAMON ISIDRO",
+      "curp": "LOSR740515HMCPNM03",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-LOSS800205MMCPNN06",
+      "nombre": "LOPEZ SANCHEZ SONIA",
+      "curp": "LOSS800205MMCPNN06",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-LOZJ640517HDFPMN08",
+      "nombre": "LOPEZ ZAMORA JUAN",
+      "curp": "LOZJ640517HDFPMN08",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-LOCG851224MDFRRD00",
+      "nombre": "LORENZO CRUZ MARIA GUADALUPE",
+      "curp": "LOCG851224MDFRRD00",
+      "area": "INTENDENCIA",
+      "activo": true
+    },
+    {
+      "id": "u-LOAJ020318HMCZLNA6",
+      "nombre": "LOZADA ALMARAZ JONATHAN",
+      "curp": "LOAJ020318HMCZLNA6",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-LOGJ710716HMCZRN01",
+      "nombre": "LOZANO GARCIA JUAN CARLOS",
+      "curp": "LOGJ710716HMCZRN01",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-LUFT700511MDFJRR05",
+      "nombre": "LUJANO FARIAS TERESITA",
+      "curp": "LUFT700511MDFJRR05",
+      "area": "ADMINISTRATIVO",
+      "activo": true
+    },
+    {
+      "id": "u-LULA970621HDFNNN04",
+      "nombre": "LUNA LEON ANDRAWI",
+      "curp": "LULA970621HDFNNN04",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-LURJ950703HPLNDS09",
+      "nombre": "LUNA RODRIGUEZ JOSEPH",
+      "curp": "LURJ950703HPLNDS09",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-MAAF010729HMCRLRA8",
+      "nombre": "MARCIAL ALMANZA FRANK EDUARDO",
+      "curp": "MAAF010729HMCRLRA8",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MAEI940702MMCRSL06",
+      "nombre": "MARTINEZ ESCOBEDO ILIANE SHERENE",
+      "curp": "MAEI940702MMCRSL06",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MAGE800813HDFRRR08",
+      "nombre": "MARTINEZ GARCIA ERNESTO",
+      "curp": "MAGE800813HDFRRR08",
+      "area": "MANTENIMIENTO",
+      "activo": true
+    },
+    {
+      "id": "u-MAHA960623HMCRRN02",
+      "nombre": "MARTINEZ HERNANDEZ JOSE ANTONIO",
+      "curp": "MAHA960623HMCRRN02",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-MAHP020116MDFRRLA9",
+      "nombre": "MARTINEZ HERNANDEZ PAOLA",
+      "curp": "MAHP020116MDFRRLA9",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-MAJE970902MOCRRS04",
+      "nombre": "MARTINEZ JERONIMO ESMERALDA",
+      "curp": "MAJE970902MOCRRS04",
+      "area": "CONTABILIDAD",
+      "activo": true
+    },
+    {
+      "id": "u-MAOJ950912HDFRSN09",
+      "nombre": "MARTINEZ OSNAYA JUAN ANTONIO",
+      "curp": "MAOJ950912HDFRSN09",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MARF900810HMCRMR03",
+      "nombre": "MARTINEZ ROMERO FERNANDO SAUL",
+      "curp": "MARF900810HMCRMR03",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-MARA930224HDFRSN01",
+      "nombre": "MARTINEZ ROSAS ANDRES",
+      "curp": "MARA930224HDFRSN01",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MASJ910130HMCRLN00",
+      "nombre": "MARTINEZ SALINAS JUAN MANUEL",
+      "curp": "MASJ910130HMCRLN00",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-MASS800318HMCTNL01",
+      "nombre": "MATIAS SANCHEZ JOSE SALVADOR",
+      "curp": "MASS800318HMCTNL01",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-MABL970620MDFYNL03",
+      "nombre": "MAYA BONILLA LILIANA",
+      "curp": "MABL970620MDFYNL03",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MECR950319HMCDRF05",
+      "nombre": "MEDINA CARBAJAL RAFAEL",
+      "curp": "MECR950319HMCDRF05",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MEVJ840714HMCDZS04",
+      "nombre": "MEDRANO VAZQUEZ JESUS",
+      "curp": "MEVJ840714HMCDZS04",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-MEQA010601HMCJVXA9",
+      "nombre": "MEJIA QUEVEDO AXEL EDUARDO",
+      "curp": "MEQA010601HMCJVXA9",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MELU020120HDFNPRA8",
+      "nombre": "MENDOZA LOPEZ URIEL ERNESTO",
+      "curp": "MELU020120HDFNPRA8",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-MEMM940913MDFNRR02",
+      "nombre": "MENDOZA MARTINEZ MARIELBA",
+      "curp": "MEMM940913MDFNRR02",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MECC051012HDFZRSA3",
+      "nombre": "MEZA CRUZ CESAR ADRIAN",
+      "curp": "MECC051012HDFZRSA3",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MIHF911004HMCGNR06",
+      "nombre": "MIGUEL HINOJOSA FRANCISCO",
+      "curp": "MIHF911004HMCGNR06",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-MIZD011019MMCRNNA8",
+      "nombre": "MIRANDA ZENO DIANA LAURA",
+      "curp": "MIZD011019MMCRNNA8",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MOMJ830312HPLCRL01",
+      "nombre": "MOCTEZUMA MARTINEZ JOEL",
+      "curp": "MOMJ830312HPLCRL01",
+      "area": "CONTABILIDAD",
+      "activo": true
+    },
+    {
+      "id": "u-MOVE000317HDFNLRA1",
+      "nombre": "MONDRAGON VALENCIA ERICK",
+      "curp": "MOVE000317HDFNLRA1",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-MOFL030514HDFNRSA3",
+      "nombre": "MONRROY FERNANDEZ LUIS DAVID",
+      "curp": "MOFL030514HDFNRSA3",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-MOFF920207MMCNNB05",
+      "nombre": "MONTERO FUENTES FABIOLA",
+      "curp": "MOFF920207MMCNNB05",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MOLA800802MVZNPN01",
+      "nombre": "MONTES LOPEZ ANGELICA",
+      "curp": "MOLA800802MVZNPN01",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MOOJ030107HMCRRSA0",
+      "nombre": "MORA ORTEGA JESUS RICARDO",
+      "curp": "MOOJ030107HMCRRSA0",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MOCC711104MDFRRR04",
+      "nombre": "MORALES CARLOS CARLOTA JOVITA",
+      "curp": "MOCC711104MDFRRR04",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MOLE890929HMCRBD09",
+      "nombre": "MORALES LOBATO EDGAR",
+      "curp": "MOLE890929HMCRBD09",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MOVL980607MDFRZR08",
+      "nombre": "MORAN VAZQUEZ LAURA YOCELYN",
+      "curp": "MOVL980607MDFRZR08",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MOMJ910125MTSRRS08",
+      "nombre": "MORENO MORALES JESSICA ABIGAIL",
+      "curp": "MOMJ910125MTSRRS08",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MOOA991122MDFTRN07",
+      "nombre": "MOTA ORTIZ ANA KAREN",
+      "curp": "MOOA991122MDFTRN07",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-MUAE960806HMCXZD06",
+      "nombre": "MUÑOZ AZUARA EDUARDO GAMALIEL",
+      "curp": "MUAE960806HMCXZD06",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-MUME940305HDFXRD01",
+      "nombre": "MUÑOZ MARTINEZ EDGAR IVAN",
+      "curp": "MUME940305HDFXRD01",
+      "area": "CONTABILIDAD",
+      "activo": true
+    },
+    {
+      "id": "u-NAGQ850726MDFVRT08",
+      "nombre": "NAVA GARCIA QUETZALMETZTLI",
+      "curp": "NAGQ850726MDFVRT08",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-NEHJ900728MMCRRL09",
+      "nombre": "NERI HERNANDEZ JULIA",
+      "curp": "NEHJ900728MMCRRL09",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-NIRC970605MMCTSR02",
+      "nombre": "NIETO ROSANO MARIA DEL CARMEN",
+      "curp": "NIRC970605MMCTSR02",
+      "area": "RECURSOS HUMANOS",
+      "activo": true
+    },
+    {
+      "id": "u-OIJE010130MMCLRLA4",
+      "nombre": "OLIVARES JUAREZ ELIZABETH ALEJANDRA",
+      "curp": "OIJE010130MMCLRLA4",
+      "area": "ADMINISTRACION",
+      "activo": true
+    },
+    {
+      "id": "u-OISS960904MDFLRT02",
+      "nombre": "OLIVARES SIERRA STEPHANY",
+      "curp": "OISS960904MDFLRT02",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-OELD810427HMCLGV02",
+      "nombre": "OLVERA LUGO DAVID",
+      "curp": "OELD810427HMCLGV02",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-OEPI030209MMCLRTA5",
+      "nombre": "OLVERA PEREZ ITZEL JOCELYN",
+      "curp": "OEPI030209MMCLRTA5",
+      "area": "ADMINISTRACION",
+      "activo": true
+    },
+    {
+      "id": "u-OAUE900917HDFRVD02",
+      "nombre": "ORDAZ UVALLE EDGAR",
+      "curp": "OAUE900917HDFRVD02",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-OOCB020122HMCRNRA5",
+      "nombre": "OROZCO CONSTANTINO BRAYAN",
+      "curp": "OOCB020122HMCRNRA5",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-OOEO021112HDFRSSA9",
+      "nombre": "OROZCO ESCOGIDO OSCAR AARON",
+      "curp": "OOEO021112HDFRSSA9",
+      "area": "CONTABILIDAD",
+      "activo": true
+    },
+    {
+      "id": "u-OORJ810829HDFRMH02",
+      "nombre": "OROZCO RAMIREZ JHONY EDGAR",
+      "curp": "OORJ810829HDFRMH02",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-OEHM901103HMCRRS03",
+      "nombre": "ORTEGA HERNANDEZ MOISES",
+      "curp": "OEHM901103HMCRRS03",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-OIOE001101HVZRSDA1",
+      "nombre": "ORTIZ OSORIO EDGAR",
+      "curp": "OIOE001101HVZRSDA1",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-PAMY990714MMCLNS03",
+      "nombre": "PALACIOS MONTIEL YOSELIN",
+      "curp": "PAMY990714MMCLNS03",
+      "area": "ADMINISTRACION",
+      "activo": true
+    },
+    {
+      "id": "u-PADL001116HMCTZSA9",
+      "nombre": "PATIÑO DIAZ LUIS HECTOR",
+      "curp": "PADL001116HMCTZSA9",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-PEHD020321MDFRRLA7",
+      "nombre": "PEREZ HERNANDEZ DULCE MARIANA",
+      "curp": "PEHD020321MDFRRLA7",
+      "area": "INTENDENCIA",
+      "activo": true
+    },
+    {
+      "id": "u-PEMA920513HMCRNL01",
+      "nombre": "PEREZ MONSALVO ALEXIS JONATHAN",
+      "curp": "PEMA920513HMCRNL01",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-PEZV770929HJCRXC06",
+      "nombre": "PEREZ ZEA VICTOR MANUEL",
+      "curp": "PEZV770929HJCRXC06",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-PIGG700309HDFNNB01",
+      "nombre": "PINEDA GONZALEZ GABINO",
+      "curp": "PIGG700309HDFNNB01",
+      "area": "MANTENIMIENTO",
+      "activo": true
+    },
+    {
+      "id": "u-PIPS920523MDFLRY02",
+      "nombre": "PLIEGO PERALTA SAYONARA",
+      "curp": "PIPS920523MDFLRY02",
+      "area": "CAPTURA E INVENTARIOS",
+      "activo": true
+    },
+    {
+      "id": "u-PIVJ920318MMCRLS09",
+      "nombre": "PRIETO VILLANUEVA JOSIVI DELIBET",
+      "curp": "PIVJ920318MMCRLS09",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-QUSL980831HMCVNS18",
+      "nombre": "QUEVEDO SANDOVAL LUIS DANIEL",
+      "curp": "QUSL980831HMCVNS18",
+      "area": "MANTENIMIENTO",
+      "activo": true
+    },
+    {
+      "id": "u-QURJ851016HDFZML03",
+      "nombre": "QUEZADA RAMIRES JULIO CESAR",
+      "curp": "QURJ851016HDFZML03",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-RAAK030320HMCMLVA2",
+      "nombre": "RAMIREZ ALBA KEVIN",
+      "curp": "RAAK030320HMCMLVA2",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-RACH900401HMCMRG08",
+      "nombre": "RAMIREZ CARRERA HUGO",
+      "curp": "RACH900401HMCMRG08",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-RADA940218MDFMMN02",
+      "nombre": "RAMIREZ DOMINGUEZ ANA LAURA",
+      "curp": "RADA940218MDFMMN02",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-RAGG870125MDFMTL01",
+      "nombre": "RAMIREZ GUTIERREZ GLORIA IVONNE",
+      "curp": "RAGG870125MDFMTL01",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-RAMN031222MHGMNFA0",
+      "nombre": "RAMIREZ MENDOZA NEFTALI",
+      "curp": "RAMN031222MHGMNFA0",
+      "area": "CUENTAS POR PAGAR",
+      "activo": true
+    },
+    {
+      "id": "u-RAHJ940626MDFNRC01",
+      "nombre": "RANGEL HERNANDEZ JOCELYN GISELA",
+      "curp": "RAHJ940626MDFNRC01",
+      "area": "RECURSOS HUMANOS",
+      "activo": true
+    },
+    {
+      "id": "u-RAVP900611HDFNLB04",
+      "nombre": "RANGEL VELEZ PABLO",
+      "curp": "RAVP900611HDFNLB04",
+      "area": "MANTENIMIENTO",
+      "activo": true
+    },
+    {
+      "id": "u-REHE820305MDFYRD07",
+      "nombre": "REYES HERNANDEZ EDITH",
+      "curp": "REHE820305MDFYRD07",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-REOO671230HCSYRS06",
+      "nombre": "REYES ORDUÑA OSVALDO HONORIO",
+      "curp": "REOO671230HCSYRS06",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-RINM031121MMCSVNA7",
+      "nombre": "RIOS NAVARRO MONICA",
+      "curp": "RINM031121MMCSVNA7",
+      "area": "FACTURACION",
+      "activo": true
+    },
+    {
+      "id": "u-RIOM850801MDFVRN08",
+      "nombre": "RIVAS DE ORTA MANUELA ELIZABETH",
+      "curp": "RIOM850801MDFVRN08",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-RICR010719HMCVRCA7",
+      "nombre": "RIVERA CORONA RICARDO ALEJANDRO",
+      "curp": "RICR010719HMCVRCA7",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-RIQJ001029MMCVNHA5",
+      "nombre": "RIVERA QUINTOS JHOANA",
+      "curp": "RIQJ001029MMCVNHA5",
+      "area": "CAPTURA E INVENTARIOS",
+      "activo": true
+    },
+    {
+      "id": "u-RORY991116HMCBYR07",
+      "nombre": "ROBLES REYES YAIR ARMANDO",
+      "curp": "RORY991116HMCBYR07",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-ROMX020620MPLDNMA0",
+      "nombre": "RODRIGUEZ MENDOZA XIMENA",
+      "curp": "ROMX020620MPLDNMA0",
+      "area": "CUENTAS POR PAGAR",
+      "activo": true
+    },
+    {
+      "id": "u-ROGA030323MMCJMNA2",
+      "nombre": "ROJAS GOMEZ ANA LAURA",
+      "curp": "ROGA030323MMCJMNA2",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-ROLE980316HMCJRD00",
+      "nombre": "ROJAS LORENZO EDUARDO",
+      "curp": "ROLE980316HMCJRD00",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-RORC971130HDFJJR01",
+      "nombre": "ROJAS ROJAS CARLOS ALBERTO ARTURO",
+      "curp": "RORC971130HDFJJR01",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-ROCC780411MVZMVL15",
+      "nombre": "ROMERO CUEVAS CLAUDIA",
+      "curp": "ROCC780411MVZMVL15",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-ROOF900626HDFMRR07",
+      "nombre": "ROMERO ORTIZ FRANCISCO ARMANDO",
+      "curp": "ROOF900626HDFMRR07",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-ROPW940617MDFMRN05",
+      "nombre": "ROMERO PEREZ WENDY KARINA",
+      "curp": "ROPW940617MDFMRN05",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-RODE010630HDFMVDA0",
+      "nombre": "ROMO DAVILA EDGAR GUADALUPE",
+      "curp": "RODE010630HDFMVDA0",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-RODT001004HDFSZMA3",
+      "nombre": "ROSALES DIAZ TOMAS ADAIR",
+      "curp": "RODT001004HDFSZMA3",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-ROSJ850212HDFSNR07",
+      "nombre": "ROSANO SANCHEZ JORGE",
+      "curp": "ROSJ850212HDFSNR07",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-ROMM940210HDFSNR01",
+      "nombre": "ROSILLO MONTALVO MARCO ANTONIO",
+      "curp": "ROMM940210HDFSNR01",
+      "area": "ADMINISTRACIÓN",
+      "activo": true
+    },
+    {
+      "id": "u-RUOL921029HDFZSN07",
+      "nombre": "RUIZ OSORIO LEONARDO",
+      "curp": "RUOL921029HDFZSN07",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-RUSL050101HDFZNSA9",
+      "nombre": "RUIZ SANCHEZ LUIS ENRIQUE GUADALUPE",
+      "curp": "RUSL050101HDFZNSA9",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-SALD840926MDFLPN05",
+      "nombre": "SALAZAR LOPEZ DIANA",
+      "curp": "SALD840926MDFLPN05",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-SAHP770310HMCLRB02",
+      "nombre": "SALCEDO HERNANDEZ PABLO",
+      "curp": "SAHP770310HMCLRB02",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-SACA840524HDFLSL00",
+      "nombre": "SALINAS CASALES JOSE ALONSO",
+      "curp": "SACA840524HDFLSL00",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-SAHI020719HMCNRSA6",
+      "nombre": "SAN AGUSTIN HERNANDEZ ISRAEL",
+      "curp": "SAHI020719HMCNRSA6",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-SAPE740528HMCNRR02",
+      "nombre": "SANABRIA PEREZ ERICK",
+      "curp": "SAPE740528HMCNRR02",
+      "area": "MANTENIMIENTO",
+      "activo": true
+    },
+    {
+      "id": "u-SAAS910516HMCNGL08",
+      "nombre": "SANCHEZ AGUILAR SALVADOR LEVY",
+      "curp": "SAAS910516HMCNGL08",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-SAHA871010HMCNRN03",
+      "nombre": "SANCHEZ HERNANDEZ ANGEL IVAN",
+      "curp": "SAHA871010HMCNRN03",
+      "area": "MANTENIMIENTO",
+      "activo": true
+    },
+    {
+      "id": "u-SARD911121HPLNMR03",
+      "nombre": "SANCHEZ ROMAN DARIO",
+      "curp": "SARD911121HPLNMR03",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-SASO940714MMCNLL04",
+      "nombre": "SANCHEZ SALGADO OLGA CRISTINA",
+      "curp": "SASO940714MMCNLL04",
+      "area": "INTENDENCIA",
+      "activo": true
+    },
+    {
+      "id": "u-SAYA661203HJCNPL02",
+      "nombre": "SANCHEZ YEPEZ ALFONSO",
+      "curp": "SAYA661203HJCNPL02",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-SAOL741223MDFNSR00",
+      "nombre": "SANTAMARIA OSORIO LORENA",
+      "curp": "SAOL741223MDFNSR00",
+      "area": "COMPRAS",
+      "activo": true
+    },
+    {
+      "id": "u-SABL990805HMCNRS05",
+      "nombre": "SANTANA BRITO LUIS FERNANDO",
+      "curp": "SABL990805HMCNRS05",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-SAGY820426MMCNNN03",
+      "nombre": "SANTILLAN GONZALEZ YANET",
+      "curp": "SAGY820426MMCNNN03",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-SIHR850326HMCRRC06",
+      "nombre": "SIERRA HERNANDEZ RICARDO",
+      "curp": "SIHR850326HMCRRC06",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-SOUR770922HGRLRG00",
+      "nombre": "SOLIS URQUIZA RIGOBERTO",
+      "curp": "SOUR770922HGRLRG00",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-SURD951203MMCRZN01",
+      "nombre": "SUAREZ RUIZ DANIELA MARISOL",
+      "curp": "SURD951203MMCRZN01",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-SUTV000326MDFRPNA4",
+      "nombre": "SUAREZ TAPIA VANESSA",
+      "curp": "SUTV000326MDFRPNA4",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-TERL961007HGRCSS01",
+      "nombre": "TECUAPA ROSALES LUIS EDUARDO",
+      "curp": "TERL961007HGRCSS01",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-TEBA861210HMCLML04",
+      "nombre": "TELLEZ BOMBELA ALEJANDRO JAVIER",
+      "curp": "TEBA861210HMCLML04",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-TEMC051112HDFLRRA6",
+      "nombre": "TELLEZ MARTINEZ CARLOS EDUARDO",
+      "curp": "TEMC051112HDFLRRA6",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-TESN041208MDFNLTA9",
+      "nombre": "TENORIO SALDAÑA NATALIA",
+      "curp": "TESN041208MDFNLTA9",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-TOOC990925HDFRRH08",
+      "nombre": "TORRES ORTIZ CHRISTIAN OSVALDO",
+      "curp": "TOOC990925HDFRRH08",
+      "area": "CONTABILIDAD",
+      "activo": true
+    },
+    {
+      "id": "u-TUGC990724MMCRRR03",
+      "nombre": "TRUJILLO GRANADOS CRISTINA LISBETH",
+      "curp": "TUGC990724MMCRRR03",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-UIPL050302HMCRXSA4",
+      "nombre": "URIBE PIÑA LUIS GUSTAVO",
+      "curp": "UIPL050302HMCRXSA4",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-UAJD911030HVZSML00",
+      "nombre": "USCANGA JIMENEZ DELIO",
+      "curp": "UAJD911030HVZSML00",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-VATK800912MMCLRR02",
+      "nombre": "VALENCIA TORRES KARINA",
+      "curp": "VATK800912MMCLRR02",
+      "area": "CONTABILIDAD",
+      "activo": true
+    },
+    {
+      "id": "u-VAAC050516MMCLVTA5",
+      "nombre": "VALVERDE AVILES CATHERINE ASHLEYN",
+      "curp": "VAAC050516MMCLVTA5",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-VAGE911112MTLZRR00",
+      "nombre": "VAZQUEZ GARCIA ERENDIRA",
+      "curp": "VAGE911112MTLZRR00",
+      "area": "CUENTAS POR PAGAR",
+      "activo": true
+    },
+    {
+      "id": "u-VEOG960628MMCGRD01",
+      "nombre": "VEGA ORTIZ MARIA GUADALUPE",
+      "curp": "VEOG960628MMCGRD01",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-VEAE021201HMCLGFA1",
+      "nombre": "VELAZQUEZ AGUILAR EFREN",
+      "curp": "VEAE021201HMCLGFA1",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-VEDC840609HDFRRS01",
+      "nombre": "VERDUZCO DURAN CESAR SALVADOR",
+      "curp": "VEDC840609HDFRRS01",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-VEMR721026HMCRRB07",
+      "nombre": "VERGARA MARTINEZ ROBERTO",
+      "curp": "VEMR721026HMCRRB07",
+      "area": "TRANSPORTES",
+      "activo": true
+    },
+    {
+      "id": "u-VEPS031105HMCRSBA7",
+      "nombre": "VERGARA PASTRANA SEBASTIAN",
+      "curp": "VEPS031105HMCRSBA7",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-VIFA960309HDFYRL03",
+      "nombre": "VIEYRA FRIAS ALDO ALAN",
+      "curp": "VIFA960309HDFYRL03",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-VIHH030602HMCLRRA5",
+      "nombre": "VILLANUEVA HERNANDEZ HERNAN",
+      "curp": "VIHH030602HMCLRRA5",
+      "area": "ALMACEN",
+      "activo": true
+    },
+    {
+      "id": "u-VIGL771127HMCLNS06",
+      "nombre": "VILLAVICENCIO GONZALEZ JOSE LUIS",
+      "curp": "VIGL771127HMCLNS06",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-XOMD950309MDFLNN08",
+      "nombre": "XOLO MONTIEL DIANA LAURA",
+      "curp": "XOMD950309MDFLNN08",
+      "area": "VENTAS",
+      "activo": true
+    },
+    {
+      "id": "u-YAOC740209HDFXCR16",
+      "nombre": "YAÑEZ OCAMPO CARLOS NESTOR",
+      "curp": "YAOC740209HDFXCR16",
+      "area": "VENTAS",
+      "activo": true
+    }
+  ],
+  "partidos": [
+    {
+      "id": "m-001",
+      "grupo": "A",
+      "jornada": 1,
+      "equipo_local": "México",
+      "equipo_visitante": "Sudáfrica",
+      "fecha_hora": "2026-06-11T13:00:00-06:00",
+      "sede": "Ciudad de México",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-002",
+      "grupo": "A",
+      "jornada": 1,
+      "equipo_local": "Corea del Sur",
+      "equipo_visitante": "Chequia",
+      "fecha_hora": "2026-06-11T20:00:00-06:00",
+      "sede": "Guadalajara",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-007",
+      "grupo": "B",
+      "jornada": 1,
+      "equipo_local": "Canadá",
+      "equipo_visitante": "Bosnia y Herzegovina",
+      "fecha_hora": "2026-06-12T13:00:00-06:00",
+      "sede": "Toronto",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-019",
+      "grupo": "D",
+      "jornada": 1,
+      "equipo_local": "Estados Unidos",
+      "equipo_visitante": "Paraguay",
+      "fecha_hora": "2026-06-12T19:00:00-06:00",
+      "sede": "Los Ángeles",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-008",
+      "grupo": "B",
+      "jornada": 1,
+      "equipo_local": "Qatar",
+      "equipo_visitante": "Suiza",
+      "fecha_hora": "2026-06-13T13:00:00-06:00",
+      "sede": "San Francisco",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-013",
+      "grupo": "C",
+      "jornada": 1,
+      "equipo_local": "Brasil",
+      "equipo_visitante": "Marruecos",
+      "fecha_hora": "2026-06-13T16:00:00-06:00",
+      "sede": "Nueva York / Nueva Jersey",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-014",
+      "grupo": "C",
+      "jornada": 1,
+      "equipo_local": "Haití",
+      "equipo_visitante": "Escocia",
+      "fecha_hora": "2026-06-13T19:00:00-06:00",
+      "sede": "Boston",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-020",
+      "grupo": "D",
+      "jornada": 1,
+      "equipo_local": "Australia",
+      "equipo_visitante": "Turquía",
+      "fecha_hora": "2026-06-13T22:00:00-06:00",
+      "sede": "Vancouver",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-025",
+      "grupo": "E",
+      "jornada": 1,
+      "equipo_local": "Alemania",
+      "equipo_visitante": "Curazao",
+      "fecha_hora": "2026-06-14T11:00:00-06:00",
+      "sede": "Houston",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-031",
+      "grupo": "F",
+      "jornada": 1,
+      "equipo_local": "Países Bajos",
+      "equipo_visitante": "Japón",
+      "fecha_hora": "2026-06-14T14:00:00-06:00",
+      "sede": "Dallas",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-026",
+      "grupo": "E",
+      "jornada": 1,
+      "equipo_local": "Costa de Marfil",
+      "equipo_visitante": "Ecuador",
+      "fecha_hora": "2026-06-14T17:00:00-06:00",
+      "sede": "Filadelfia",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-032",
+      "grupo": "F",
+      "jornada": 1,
+      "equipo_local": "Suecia",
+      "equipo_visitante": "Túnez",
+      "fecha_hora": "2026-06-14T20:00:00-06:00",
+      "sede": "Monterrey",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-043",
+      "grupo": "H",
+      "jornada": 1,
+      "equipo_local": "España",
+      "equipo_visitante": "Cabo Verde",
+      "fecha_hora": "2026-06-15T10:00:00-06:00",
+      "sede": "Atlanta",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-038",
+      "grupo": "G",
+      "jornada": 1,
+      "equipo_local": "Bélgica",
+      "equipo_visitante": "Egipto",
+      "fecha_hora": "2026-06-15T13:00:00-06:00",
+      "sede": "Seattle",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-044",
+      "grupo": "H",
+      "jornada": 1,
+      "equipo_local": "Arabia Saudita",
+      "equipo_visitante": "Uruguay",
+      "fecha_hora": "2026-06-15T16:00:00-06:00",
+      "sede": "Miami",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-037",
+      "grupo": "G",
+      "jornada": 1,
+      "equipo_local": "Irán",
+      "equipo_visitante": "Nueva Zelanda",
+      "fecha_hora": "2026-06-15T19:00:00-06:00",
+      "sede": "Los Ángeles",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-049",
+      "grupo": "I",
+      "jornada": 1,
+      "equipo_local": "Francia",
+      "equipo_visitante": "Senegal",
+      "fecha_hora": "2026-06-16T13:00:00-06:00",
+      "sede": "Nueva York / Nueva Jersey",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-050",
+      "grupo": "I",
+      "jornada": 1,
+      "equipo_local": "Irak",
+      "equipo_visitante": "Noruega",
+      "fecha_hora": "2026-06-16T16:00:00-06:00",
+      "sede": "Boston",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-055",
+      "grupo": "J",
+      "jornada": 1,
+      "equipo_local": "Argentina",
+      "equipo_visitante": "Argelia",
+      "fecha_hora": "2026-06-16T19:00:00-06:00",
+      "sede": "Kansas City",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-056",
+      "grupo": "J",
+      "jornada": 1,
+      "equipo_local": "Austria",
+      "equipo_visitante": "Jordania",
+      "fecha_hora": "2026-06-16T22:00:00-06:00",
+      "sede": "San Francisco",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-061",
+      "grupo": "K",
+      "jornada": 1,
+      "equipo_local": "Portugal",
+      "equipo_visitante": "Congo",
+      "fecha_hora": "2026-06-17T11:00:00-06:00",
+      "sede": "Houston",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-067",
+      "grupo": "L",
+      "jornada": 1,
+      "equipo_local": "Inglaterra",
+      "equipo_visitante": "Croacia",
+      "fecha_hora": "2026-06-17T14:00:00-06:00",
+      "sede": "Dallas",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-068",
+      "grupo": "L",
+      "jornada": 1,
+      "equipo_local": "Ghana",
+      "equipo_visitante": "Panamá",
+      "fecha_hora": "2026-06-17T17:00:00-06:00",
+      "sede": "Toronto",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-062",
+      "grupo": "K",
+      "jornada": 1,
+      "equipo_local": "Uzbekistán",
+      "equipo_visitante": "Colombia",
+      "fecha_hora": "2026-06-17T20:00:00-06:00",
+      "sede": "Ciudad de México",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-003",
+      "grupo": "A",
+      "jornada": 2,
+      "equipo_local": "Chequia",
+      "equipo_visitante": "Sudáfrica",
+      "fecha_hora": "2026-06-18T10:00:00-06:00",
+      "sede": "Atlanta",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-009",
+      "grupo": "B",
+      "jornada": 2,
+      "equipo_local": "Suiza",
+      "equipo_visitante": "Bosnia y Herzegovina",
+      "fecha_hora": "2026-06-18T13:00:00-06:00",
+      "sede": "Los Ángeles",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-010",
+      "grupo": "B",
+      "jornada": 2,
+      "equipo_local": "Canadá",
+      "equipo_visitante": "Qatar",
+      "fecha_hora": "2026-06-18T16:00:00-06:00",
+      "sede": "Vancouver",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-004",
+      "grupo": "A",
+      "jornada": 2,
+      "equipo_local": "México",
+      "equipo_visitante": "Corea del Sur",
+      "fecha_hora": "2026-06-18T19:00:00-06:00",
+      "sede": "Guadalajara",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-022",
+      "grupo": "D",
+      "jornada": 2,
+      "equipo_local": "Estados Unidos",
+      "equipo_visitante": "Australia",
+      "fecha_hora": "2026-06-19T13:00:00-06:00",
+      "sede": "Seattle",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-015",
+      "grupo": "C",
+      "jornada": 2,
+      "equipo_local": "Escocia",
+      "equipo_visitante": "Marruecos",
+      "fecha_hora": "2026-06-19T16:00:00-06:00",
+      "sede": "Boston",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-016",
+      "grupo": "C",
+      "jornada": 2,
+      "equipo_local": "Brasil",
+      "equipo_visitante": "Haití",
+      "fecha_hora": "2026-06-19T19:00:00-06:00",
+      "sede": "Filadelfia",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-021",
+      "grupo": "D",
+      "jornada": 2,
+      "equipo_local": "Turquía",
+      "equipo_visitante": "Paraguay",
+      "fecha_hora": "2026-06-19T22:00:00-06:00",
+      "sede": "San Francisco",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-033",
+      "grupo": "F",
+      "jornada": 2,
+      "equipo_local": "Países Bajos",
+      "equipo_visitante": "Suecia",
+      "fecha_hora": "2026-06-20T11:00:00-06:00",
+      "sede": "Houston",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-027",
+      "grupo": "E",
+      "jornada": 2,
+      "equipo_local": "Alemania",
+      "equipo_visitante": "Costa de Marfil",
+      "fecha_hora": "2026-06-20T14:00:00-06:00",
+      "sede": "Toronto",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-028",
+      "grupo": "E",
+      "jornada": 2,
+      "equipo_local": "Ecuador",
+      "equipo_visitante": "Curazao",
+      "fecha_hora": "2026-06-20T18:00:00-06:00",
+      "sede": "Kansas City",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-034",
+      "grupo": "F",
+      "jornada": 2,
+      "equipo_local": "Túnez",
+      "equipo_visitante": "Japón",
+      "fecha_hora": "2026-06-20T22:00:00-06:00",
+      "sede": "Guadalajara",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-045",
+      "grupo": "H",
+      "jornada": 2,
+      "equipo_local": "España",
+      "equipo_visitante": "Arabia Saudita",
+      "fecha_hora": "2026-06-21T10:00:00-06:00",
+      "sede": "Atlanta",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-039",
+      "grupo": "G",
+      "jornada": 2,
+      "equipo_local": "Bélgica",
+      "equipo_visitante": "Irán",
+      "fecha_hora": "2026-06-21T13:00:00-06:00",
+      "sede": "Los Ángeles",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-046",
+      "grupo": "H",
+      "jornada": 2,
+      "equipo_local": "Uruguay",
+      "equipo_visitante": "Cabo Verde",
+      "fecha_hora": "2026-06-21T16:00:00-06:00",
+      "sede": "Miami",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-040",
+      "grupo": "G",
+      "jornada": 2,
+      "equipo_local": "Nueva Zelanda",
+      "equipo_visitante": "Egipto",
+      "fecha_hora": "2026-06-21T19:00:00-06:00",
+      "sede": "Vancouver",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-057",
+      "grupo": "J",
+      "jornada": 2,
+      "equipo_local": "Argentina",
+      "equipo_visitante": "Austria",
+      "fecha_hora": "2026-06-22T11:00:00-06:00",
+      "sede": "Dallas",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-051",
+      "grupo": "I",
+      "jornada": 2,
+      "equipo_local": "Francia",
+      "equipo_visitante": "Irak",
+      "fecha_hora": "2026-06-22T15:00:00-06:00",
+      "sede": "Filadelfia",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-052",
+      "grupo": "I",
+      "jornada": 2,
+      "equipo_local": "Noruega",
+      "equipo_visitante": "Senegal",
+      "fecha_hora": "2026-06-22T18:00:00-06:00",
+      "sede": "Nueva York / Nueva Jersey",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-058",
+      "grupo": "J",
+      "jornada": 2,
+      "equipo_local": "Jordania",
+      "equipo_visitante": "Argelia",
+      "fecha_hora": "2026-06-22T21:00:00-06:00",
+      "sede": "San Francisco",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-063",
+      "grupo": "K",
+      "jornada": 2,
+      "equipo_local": "Portugal",
+      "equipo_visitante": "Uzbekistán",
+      "fecha_hora": "2026-06-23T11:00:00-06:00",
+      "sede": "Houston",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-069",
+      "grupo": "L",
+      "jornada": 2,
+      "equipo_local": "Inglaterra",
+      "equipo_visitante": "Ghana",
+      "fecha_hora": "2026-06-23T14:00:00-06:00",
+      "sede": "Boston",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-070",
+      "grupo": "L",
+      "jornada": 2,
+      "equipo_local": "Panamá",
+      "equipo_visitante": "Croacia",
+      "fecha_hora": "2026-06-23T17:00:00-06:00",
+      "sede": "Toronto",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-064",
+      "grupo": "K",
+      "jornada": 2,
+      "equipo_local": "Colombia",
+      "equipo_visitante": "Congo",
+      "fecha_hora": "2026-06-23T20:00:00-06:00",
+      "sede": "Guadalajara",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-011",
+      "grupo": "B",
+      "jornada": 3,
+      "equipo_local": "Suiza",
+      "equipo_visitante": "Canadá",
+      "fecha_hora": "2026-06-24T13:00:00-06:00",
+      "sede": "Vancouver",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-012",
+      "grupo": "B",
+      "jornada": 3,
+      "equipo_local": "Bosnia y Herzegovina",
+      "equipo_visitante": "Qatar",
+      "fecha_hora": "2026-06-24T13:00:00-06:00",
+      "sede": "Seattle",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-017",
+      "grupo": "C",
+      "jornada": 3,
+      "equipo_local": "Escocia",
+      "equipo_visitante": "Brasil",
+      "fecha_hora": "2026-06-24T16:00:00-06:00",
+      "sede": "Miami",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-018",
+      "grupo": "C",
+      "jornada": 3,
+      "equipo_local": "Marruecos",
+      "equipo_visitante": "Haití",
+      "fecha_hora": "2026-06-24T16:00:00-06:00",
+      "sede": "Atlanta",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-005",
+      "grupo": "A",
+      "jornada": 3,
+      "equipo_local": "Chequia",
+      "equipo_visitante": "México",
+      "fecha_hora": "2026-06-24T19:00:00-06:00",
+      "sede": "Ciudad de México",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-006",
+      "grupo": "A",
+      "jornada": 3,
+      "equipo_local": "Sudáfrica",
+      "equipo_visitante": "Corea del Sur",
+      "fecha_hora": "2026-06-24T19:00:00-06:00",
+      "sede": "Monterrey",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-029",
+      "grupo": "E",
+      "jornada": 3,
+      "equipo_local": "Ecuador",
+      "equipo_visitante": "Alemania",
+      "fecha_hora": "2026-06-25T14:00:00-06:00",
+      "sede": "Nueva York / Nueva Jersey",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-030",
+      "grupo": "E",
+      "jornada": 3,
+      "equipo_local": "Curazao",
+      "equipo_visitante": "Costa de Marfil",
+      "fecha_hora": "2026-06-25T14:00:00-06:00",
+      "sede": "Filadelfia",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-035",
+      "grupo": "F",
+      "jornada": 3,
+      "equipo_local": "Japón",
+      "equipo_visitante": "Suecia",
+      "fecha_hora": "2026-06-25T17:00:00-06:00",
+      "sede": "Dallas",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-036",
+      "grupo": "F",
+      "jornada": 3,
+      "equipo_local": "Túnez",
+      "equipo_visitante": "Países Bajos",
+      "fecha_hora": "2026-06-25T17:00:00-06:00",
+      "sede": "Kansas City",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-023",
+      "grupo": "D",
+      "jornada": 3,
+      "equipo_local": "Turquía",
+      "equipo_visitante": "Estados Unidos",
+      "fecha_hora": "2026-06-25T20:00:00-06:00",
+      "sede": "Los Ángeles",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-024",
+      "grupo": "D",
+      "jornada": 3,
+      "equipo_local": "Paraguay",
+      "equipo_visitante": "Australia",
+      "fecha_hora": "2026-06-25T20:00:00-06:00",
+      "sede": "San Francisco",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-053",
+      "grupo": "I",
+      "jornada": 3,
+      "equipo_local": "Noruega",
+      "equipo_visitante": "Francia",
+      "fecha_hora": "2026-06-26T13:00:00-06:00",
+      "sede": "Boston",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-054",
+      "grupo": "I",
+      "jornada": 3,
+      "equipo_local": "Senegal",
+      "equipo_visitante": "Irak",
+      "fecha_hora": "2026-06-26T13:00:00-06:00",
+      "sede": "Toronto",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-047",
+      "grupo": "H",
+      "jornada": 3,
+      "equipo_local": "Cabo Verde",
+      "equipo_visitante": "Arabia Saudita",
+      "fecha_hora": "2026-06-26T18:00:00-06:00",
+      "sede": "Houston",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-048",
+      "grupo": "H",
+      "jornada": 3,
+      "equipo_local": "Uruguay",
+      "equipo_visitante": "España",
+      "fecha_hora": "2026-06-26T18:00:00-06:00",
+      "sede": "Guadalajara",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-041",
+      "grupo": "G",
+      "jornada": 3,
+      "equipo_local": "Egipto",
+      "equipo_visitante": "Irán",
+      "fecha_hora": "2026-06-26T21:00:00-06:00",
+      "sede": "Seattle",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-042",
+      "grupo": "G",
+      "jornada": 3,
+      "equipo_local": "Nueva Zelanda",
+      "equipo_visitante": "Bélgica",
+      "fecha_hora": "2026-06-26T21:00:00-06:00",
+      "sede": "Vancouver",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-071",
+      "grupo": "L",
+      "jornada": 3,
+      "equipo_local": "Panamá",
+      "equipo_visitante": "Inglaterra",
+      "fecha_hora": "2026-06-27T15:00:00-06:00",
+      "sede": "Nueva York / Nueva Jersey",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-072",
+      "grupo": "L",
+      "jornada": 3,
+      "equipo_local": "Croacia",
+      "equipo_visitante": "Ghana",
+      "fecha_hora": "2026-06-27T15:00:00-06:00",
+      "sede": "Filadelfia",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-065",
+      "grupo": "K",
+      "jornada": 3,
+      "equipo_local": "Colombia",
+      "equipo_visitante": "Portugal",
+      "fecha_hora": "2026-06-27T17:30:00-06:00",
+      "sede": "Miami",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-066",
+      "grupo": "K",
+      "jornada": 3,
+      "equipo_local": "Congo",
+      "equipo_visitante": "Uzbekistán",
+      "fecha_hora": "2026-06-27T17:30:00-06:00",
+      "sede": "Atlanta",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-059",
+      "grupo": "J",
+      "jornada": 3,
+      "equipo_local": "Argelia",
+      "equipo_visitante": "Austria",
+      "fecha_hora": "2026-06-27T20:00:00-06:00",
+      "sede": "Kansas City",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    },
+    {
+      "id": "m-060",
+      "grupo": "J",
+      "jornada": 3,
+      "equipo_local": "Jordania",
+      "equipo_visitante": "Argentina",
+      "fecha_hora": "2026-06-27T20:00:00-06:00",
+      "sede": "Dallas",
+      "goles_local_real": null,
+      "goles_visitante_real": null,
+      "estatus": "programado"
+    }
+  ],
+  "predicciones": [],
+  "admins": [
+    {
+      "id": "admin-1",
+      "usuario": "admin",
+      "nombre": "Administrador de resultados",
+      "password": "admin2026",
+      "activo": true
+    }
+  ]
+}
